@@ -8,7 +8,7 @@ document.getElementById('login').addEventListener('click', function() {
             // const TransactionArea = document.getElementById('transaction-area');
             // TransactionArea.style.display = 'block';
         } else {
-            alert('Invalid e-mail or password, please try again!!')
+            alert('Invalid e-mail or password! email: shaheen@gmail.com password: 123')
         }
     })
     //
